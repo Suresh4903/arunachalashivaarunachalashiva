@@ -1,0 +1,22 @@
+2022-04-03 20:09:59,178 INFO  [Racpad] driveraccessed 
+2022-04-03 20:09:59,336 INFO  [Racpad] window maximized 
+2022-04-03 20:10:31,089 INFO  [TC_openRacpad] first name entered 
+2022-04-03 20:10:32,095 INFO  [TC_openRacpad] last name entered 
+2022-04-03 20:10:32,678 INFO  [TC_openRacpad] date of birth entered 
+2022-04-03 20:10:35,362 INFO  [TC_openRacpad] phone number entered 
+2022-04-03 20:10:36,536 INFO  [TC_openRacpad] email entered 
+2022-04-03 20:10:38,479 INFO  [TC_openRacpad] address entered 
+2022-04-03 20:10:39,043 INFO  [TC_openRacpad] zip code entered 
+2022-04-03 20:10:39,769 INFO  [TC_openRacpad] city name entered 
+2022-04-03 20:10:43,685 INFO  [TC_openRacpad] state name selected 
+2022-04-03 21:38:43,521 INFO  [Racpad] driveraccessed 
+2022-04-03 21:38:43,702 INFO  [Racpad] window maximized 
+2022-04-03 21:39:15,406 INFO  [TC_openRacpad] first name entered 
+2022-04-03 21:39:16,156 INFO  [TC_openRacpad] last name entered 
+2022-04-03 21:39:16,745 INFO  [TC_openRacpad] date of birth entered 
+2022-04-03 21:39:18,879 INFO  [TC_openRacpad] phone number entered 
+2022-04-03 21:39:19,662 INFO  [TC_openRacpad] email entered 
+2022-04-03 21:39:21,043 INFO  [TC_openRacpad] address entered 
+2022-04-03 21:39:21,616 INFO  [TC_openRacpad] zip code entered 
+2022-04-03 21:39:22,371 INFO  [TC_openRacpad] city name entered 
+2022-04-03 21:39:34,708 INFO  [TC_openRacpad] state name selected 
