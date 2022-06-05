@@ -5,6 +5,8 @@
     <classes>
       <class name="com.Racpad.Testcases.TC_openRacpad">
         <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
           <include name="openRacpad"/>
         </methods>
       </class> <!-- com.Racpad.Testcases.TC_openRacpad -->
